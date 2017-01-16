@@ -2065,7 +2065,7 @@ footer p {
     position: relative;
     width: 100%;
     height: auto;
-    padding: 100% 0 20%;
+    padding: 100% 0;
   }
   #home-wrap.hide-left {
     width: 100% !important;
